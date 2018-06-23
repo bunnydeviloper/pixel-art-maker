@@ -2,8 +2,8 @@ body {
   text-align: center;
   background-color: #e5fccc;
   background-image: url("background.jpg");
-  background-size: 1400px 125%;
-  background-position: -105px 0;
+  background-size: cover;
+  background-repeat: no-repeat;
 }
 
 h2 {
